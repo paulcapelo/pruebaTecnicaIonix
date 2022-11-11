@@ -7,19 +7,19 @@ backend/yarn-error.log*
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-frontEnd/app-test/node_modules
-frontEnd/app-test/.pnp
-frontEnd/app-test.pnp.js
+app-test/node_modules
+app-test/.pnp
+app-test.pnp.js
 
 # testing
-frontEnd/app-test/coverage
+app-test/coverage
 
 # production
-frontEnd/app-test/build
+app-test/build
 
 # misc
-frontEnd/app-test.DS_Store
+app-test.DS_Store
 
-frontEnd/app-test/npm-debug.log*
-frontEnd/app-test/yarn-debug.log*
-frontEnd/app-test/yarn-error.log*
+app-test/npm-debug.log*
+app-test/yarn-debug.log*
+app-test/yarn-error.log*
